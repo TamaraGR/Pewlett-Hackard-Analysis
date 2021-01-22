@@ -37,6 +37,19 @@ And we get the following results:
 In the end we are asked to find out who will be eligible for the mentorship program, and we do so with the following code: 
 ![code](https://github.com/TamaraGR/Pewlett-Hackard-Analysis/blob/main/image4.jpg)
 
-And we found out that 1549 people are eligible (the output is [here](https://github.com/TamaraGR/Pewlett-Hackard-Analysis/blob/main/Data/mentorship.csv)).
+And we found out that 1,549 people are eligible (the output is [here](https://github.com/TamaraGR/Pewlett-Hackard-Analysis/blob/main/Data/mentorship.csv)).
+
+## Summary
+
+As a result of the 'silver tsunami' the company will have to fill 90,398 positions. And since the mentorship program eligible employees are only at 1,549, there are enough of people nearing retirement who can help them. In fact, there are 58 potential mentors per each mentee. 
+
+Additional things that we can find out:
+
+- [x] What are the unique titles of the people eligible for the mentorship program? We can do this with the following code: 
+
+![code]()
+
+And we will get the following output: 
+![code]()
 
 
