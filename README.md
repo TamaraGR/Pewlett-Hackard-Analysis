@@ -47,7 +47,7 @@ Additional things that we can find out:
 
 - [x] What are the unique titles of the people eligible for the mentorship program? We can do this with the following code: 
 
-![code]()
+![code](https://github.com/TamaraGR/Pewlett-Hackard-Analysis/blob/main/image5.jpg)
 
 And we will get the following output: 
 ![code]()
