@@ -50,6 +50,8 @@ Additional things that we can find out:
 ![code](https://github.com/TamaraGR/Pewlett-Hackard-Analysis/blob/main/image5.jpg)
 
 And we will get the following output: 
+
+
 ![code](https://github.com/TamaraGR/Pewlett-Hackard-Analysis/blob/main/unique.jpg)
 
 
