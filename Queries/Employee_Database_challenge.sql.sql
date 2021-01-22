@@ -1,4 +1,4 @@
--- MODULE 7, DELIVERABLE 1
+MODULE 7, DELIVERABLE 1
 
 SELECT e.emp_no,
 	e.first_name,
@@ -46,10 +46,17 @@ LEFT JOIN dept_emp as de
 ON (e.emp_no = de.emp_no)
 LEFT JOIN titles as t
 ON (e.emp_no = t.emp_no)
-WHERE (birthdate BETWEEN '1965-01-01'	AND '1965-12-31')
+WHERE (birth_date BETWEEN '1965-01-01'AND '1965-12-31')
 ORDER BY emp_no;
 	
-	
+-- ADDITIONAL
+
+SELECT COUNT (men.title), men.title
+INTO unique_retirement_titles
+FROM mentorship AS men
+GROUP BY men.title
+ORDER BY COUNT DESC; 
+
 	
 	
 	
